@@ -38,7 +38,7 @@ origin  https://github.com/Your_Username/internship.git (push)
 Now, lets add a reference to the original [internship](https://github.com/coderplex/internship) repository using
 
 ```sh
-$ git remote add upstream https://github.com/coderplex/internship
+$ git remote add upstream https://github.com/coderplex/internship.git
 ```
 
 > This adds a new remote named ***upstream***.
@@ -49,8 +49,8 @@ See the changes using
 $ git remote -v
 origin    https://github.com/Your_Username/internship.git (fetch)
 origin    https://github.com/Your_Username/internship.git (push)
-upstream  https://github.com/coderplex/internship (fetch)
-upstream  https://github.com/coderplex/internship (push)
+upstream  https://github.com/coderplex/internship.git (fetch)
+upstream  https://github.com/coderplex/internship.git (push)
 ```
 
 ### 4. Sync it :
