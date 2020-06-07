@@ -4,7 +4,7 @@ It was made using HTML,CSS and Bootstrap and more functionalities will be added 
 
 
 ## Articles on [GSSoC'20](https://www.gssoc.tech/)    :page_with_curl:  :   
-```  An Awesome Journey  ```
+> An Awesome Journey  
 
 
 
