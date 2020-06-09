@@ -121,4 +121,4 @@ $ git push -u origin Folder_Name
 Finally, go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your efforts.
 
-## To contribute to the ``` [Learnplex Project](https://github.com/coderplex/learnplex) ```, please refer to the Prerequisites and Installation section of [Learnplex Docs](https://docs.coderplex.in/) . 
+## To contribute to the [Learnplex Project](https://github.com/coderplex/learnplex) , please refer to the Prerequisites and Installation section of [Learnplex Docs](https://docs.coderplex.in/) . 
