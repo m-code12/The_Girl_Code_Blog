@@ -5,7 +5,8 @@
 
 
 ## Articles on [GSSoC'20](https://www.gssoc.tech/)    :page_with_curl:  :   
-> An Awesome Journey  
+> An Awesome Journey 
+ 
 | Author  | Link to Article  |
 |---|---|
 | [@PragatiVerma18](https://github.com/PragatiVerma18)  | [GirlScript Summer of Code 2020 Mentor Experience](https://medium.com/girlscript-summer-of-code/girlscript-summer-of-code-2020-mentor-experience-28daec399b1e)
